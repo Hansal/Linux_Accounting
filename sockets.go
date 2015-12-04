@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
-	r "supplyframe.com/cyclopsd/riemann"
+	r "riemann"
 )
 
 const (
